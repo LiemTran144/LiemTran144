@@ -7,16 +7,13 @@
 
 ### 📬 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nh%E1%BA%A5t-duy-475028131/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/liem-tran-293230374/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/LiemTran144)
 
 
 ![ROS2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![micro-ROS](https://img.shields.io/badge/micro--ROS-00BFFF?style=for-the-badge&logo=robot-framework&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/Altium%20Designer-AC7B0C?style=for-the-badge&logo=dev.to&logoColor=white)
+
 
 <table>
   <tr>
