@@ -1,9 +1,9 @@
 ### 👋 Hi there, I'm Liem Tran
 
-✨ Working on research platforms for **autonomous vehicles** and **drones**.  
-📫 Research interests include perception, control, and planning.  
-🎓 Teaching STEM and supporting passionate students in the field of robotics at EIU FabLab, Binh Duong 🇻🇳.  
-🌱 I'm passionate about applying emerging technologies in the field of autonomous vehicles and drones.
+✨ Student of **Automation and Control Engineering** at Eastern Internationalize University (EIU).
+💻 Passionate about embedded systems, robotics, and control algorithms.
+🎓 Currently researching and learning about autonomous mobile robots (AMRs) and A* path planning.
+🤝 I thrive in collaborative, open‑source environments and continuously seek new challenges to grow.
 
 ### 📬 How to reach me:
 
