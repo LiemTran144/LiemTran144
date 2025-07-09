@@ -1,8 +1,11 @@
 ### 👋 Hi there, I'm Liem Tran
 
 ✨ Student of **Automation and Control Engineering** at Eastern Internationalize University (EIU).
+
 💻 Passionate about embedded systems, robotics, and control algorithms.
+
 🎓 Currently researching and learning about autonomous mobile robots (AMRs) and A* path planning.
+
 🤝 I thrive in collaborative, open‑source environments and continuously seek new challenges to grow.
 
 ### 📬 How to reach me:
