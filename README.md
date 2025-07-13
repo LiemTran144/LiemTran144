@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Liem Tran
 
-✨ Student of **Automation and Control Engineering** at Eastern Internationalize University (EIU).
+✨ Student of **Automation and Control Engineering** at Eastern International University (EIU).
 
 💻 Passionate about embedded systems, robotics, and control algorithms.
 
