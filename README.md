@@ -16,15 +16,3 @@
 
 ![ROS2](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiemTran144&layout=compact&langs_count=8&theme=default" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=LiemTran144&show_icons=true&theme=default&count_private=true" width="90%"/>
-    </td>
-  </tr>
-</table>
