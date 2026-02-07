@@ -4,7 +4,7 @@
 
 💻 Passionate about embedded systems, robotics, and control algorithms.
 
-🎓 Currently researching and learning about autonomous mobile robots (AMRs) and A* path planning.
+🎓 Currently researching and learning about autonomous mobile robots (AMRs).
 
 🤝 I thrive in collaborative, open‑source environments and continuously seek new challenges to grow.
 
